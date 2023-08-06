@@ -1,0 +1,3 @@
+[submodule "recruitR_quiz_service"]
+	path = recruitR_quiz_service
+	url = https://github.com/Dejavu333/recruitR_quiz_service.git
