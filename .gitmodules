@@ -4,3 +4,6 @@
 [submodule "recruitR_curator_service"]
 	path = recruitR_curator_service
 	url = https://github.com/Dejavu333/recruitR_curator_service.git
+[submodule "recruitR_web_frontend_service"]
+	path = recruitR_web_frontend_service
+	url = https://github.com/Dejavu333/recruitR_web_frontend_service.git
