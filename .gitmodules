@@ -7,6 +7,3 @@
 [submodule "recruitR_web_frontend_service"]
 	path = recruitR_web_frontend_service
 	url = https://github.com/Dejavu333/recruitR_web_frontend_service.git
-[submodule "recruitR_identity_provider_service"]
-	path = recruitR_identity_provider_service
-	url = https://github.com/Dejavu333/recruitR_identity_provider_service.git
